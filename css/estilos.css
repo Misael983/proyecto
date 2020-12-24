@@ -4,8 +4,25 @@ body {
   }
 
 .header {
-    padding: 60px;
+    padding: 10px;
     text-align: center;
-    background: #b9bc1a;
+    background: #ecea6d;
     color: rgb(3, 3, 3);
   }
+
+  .navbar {
+      padding: 15px;
+    display: flex;
+     background-color:rgb(207, 204, 204);
+  }
+  button{ 
+    margin: 35px 50px 42px 50px;
+    }
+
+    .header1 {
+      padding: 20px;
+      text-align: center;
+      background: #ecda72;
+      color: rgb(3, 3, 3);
+    }
+  
